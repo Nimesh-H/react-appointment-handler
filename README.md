@@ -1,5 +1,7 @@
 # React: Building an Interface
 
+Live Preview : https://nimesh-h.github.io/react-appointment-handler/
+
 This is the repository for my course React: Building an Interface. The full course is available on LinkedIn Learning.
 
 ## Instructions
